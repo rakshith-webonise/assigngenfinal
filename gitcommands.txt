@@ -1,0 +1,8 @@
+basic git commands:
+
+1)git clone: clones the repository from github
+2)Adds files changes in your working directory to your index.
+3)git commit
+Takes all of the changes written in the index, creates a new commit object pointing to it and sets the branch to point to that new commit
+4)git branch
+Lists existing branches, including remote branches if ‘-a’ is provided. Creates a new branch if a branch name is provided
